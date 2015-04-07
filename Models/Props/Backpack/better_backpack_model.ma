@@ -1,6 +1,6 @@
 //Maya ASCII 2015 scene
 //Name: better_backpack_model.ma
-//Last modified: Mon, Apr 06, 2015 05:51:46 PM
+//Last modified: Tue, Apr 07, 2015 03:51:35 PM
 //Codeset: 1252
 requires maya "2015";
 currentUnit -l centimeter -a degree -t film;
