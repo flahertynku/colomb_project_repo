@@ -1,6 +1,6 @@
 //Maya ASCII 2015 scene
 //Name: ColombRig_v4.ma
-//Last modified: Thu, Apr 09, 2015 02:15:21 PM
+//Last modified: Thu, Apr 09, 2015 02:20:56 PM
 //Codeset: UTF-8
 requires maya "2015";
 requires -nodeType "mentalrayFramebuffer" -nodeType "mentalrayOptions" -nodeType "mentalrayGlobals"
@@ -14,7 +14,7 @@ fileInfo "osv" "Mac OS X 10.9.5";
 fileInfo "license" "student";
 createNode transform -s -n "persp";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -2.4376078254103755 37.87888036684528 75.754471777606398 ;
+	setAttr ".t" -type "double3" -3.0912577874883045 41.676941422913757 74.105147824449432 ;
 	setAttr ".r" -type "double3" -23.138352729207863 1077.7999999984252 -4.9732824146451742e-17 ;
 createNode camera -s -n "perspShape" -p "persp";
 	setAttr -k off ".v" no;
