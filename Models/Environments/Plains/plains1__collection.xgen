@@ -1,0 +1,15 @@
+# XGen Palette File
+#
+# Version:  /Applications/Autodesk/maya2015/plug-ins/xgen/
+# Author:   student
+# Date:     Thu Apr  9 17:34:45 2015
+
+FileVersion 16
+
+Palette
+	name			collection
+	parent			
+	xgDataPath		${PROJECT}xgen/collections/collection
+	xgProjectPath		/Users/student/Documents/maya/projects/default/
+	xgDogTag		
+	endAttrs
